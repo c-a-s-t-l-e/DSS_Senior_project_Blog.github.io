@@ -4,7 +4,7 @@ subtitle" "Because I Know You Nerds Want To See That First"
 author: "Harlow Malloc"
 date: "2025-01-15"
 categories: [news, code, analysis]
-image: "image.jpg"
+image: "coderpad-regex-the-complete-guide.jpg"
 ---
 
 This is where I will transfer regex notebook
