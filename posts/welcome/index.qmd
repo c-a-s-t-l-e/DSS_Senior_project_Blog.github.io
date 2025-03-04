@@ -1,12 +1,17 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2025-01-12"
-categories: [news]
+title: "Welcome To My (Regex) Blog"
+author: "Annaka McClelland"
+date: "2025-03-03"
+categories: [news][background]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+This is the first post in a Quarto blog. Thanks for sharing the experience with me!
 
 ![](thumbnail.jpg)
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+This post will be about my passion, regex, and how it ties into a project at work that I was lucky enough to have been put in charge of.
+AWS Textract cleaning project
+2D Engineering Drawings
+Something about putting myself out there to be a regex expert and bc of that I have been able to use it every day at work
+Jouney to use this project to find out mor about regex and to help share it in a fun undaunting way
+
