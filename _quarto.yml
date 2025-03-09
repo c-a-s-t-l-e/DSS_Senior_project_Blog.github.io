@@ -3,14 +3,68 @@ project:
   output-dir: docs
 
 website:
-  title: "DS499_SeniorProjectBlog"
+  title: "Data Cleaning Blog for My Regex Nerds"
+  back-to-top-navigation: true
+  repo-url: https://github.com/annakamc/DSS_Senior_project_Blog.github.io/tree/main
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/annakamc
+      - icon: linkedin
+        href: www.linkedin.com/in/annaka-mcc
+  sidebar: 
+    - title: "Regex :)"
+      style: "docked"
+      background: light
+      contents:
+        - text: "Regex Intro"
+          file: cleansing.qmd
+        - text: "---"
+        - text: "Beginners"
+          file: Cleansing_Projects/finial_scotland.qmd
+        - text: "---"
+        - text: "Intermediate"
+          file: Cleansing_Projects/project2.qmd
+        - text: "---"
+        - text: "Advanced"
+          file: Cleansing_Projects/project3.qmd
+        - text: "---"
+    - title: "Business Value"
+      style: "docked"
+      background: light
+      contents:
+        - text: "For My Company"
+          file: exploration.qmd
+        - text: "---"
+        - text: "For My Skillset"
+          file: Exploration_Projects/project1.qmd
+        - text: "---"
+        - text: "For My Confidence"
+          file: Exploration_Projects/project2.qmd
+        - text: "---"
+    - title: "Total Projects"
+      style: "docked"
+      background: light
+      contents:
+        - text: "IEEE Standards"
+          file: ml.qmd
+        - text: "---"
+        - text: "IEC Standards"
+          file: Machine_Learning/baseball_Win_prediction.docx
+        - text: "---"
+        - text: "Cast Iron Standards"
+          file: Machine_Learning/project2.qmd
+        - text: "---"
+        - text: "Paint Standards"
+          file: Machine_Learning/project3.qmd
+        - text: "---"
+        - text: "Primer Callouts"
+          file: Machine_Learning/project4.qmd
+        - text: "---"
+        - text: "Replace"
+          file: Machine_Learning/project5.qmd
+        - text: "---"
 format:
   html:
     theme: cosmo
