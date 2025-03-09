@@ -19,51 +19,48 @@ website:
       background: light
       contents:
         - text: "Regex Intro"
-          file: cleansing.qmd
+          file: qmds/regex/regex_intro.qmd
         - text: "---"
         - text: "Beginners"
-          file: Cleansing_Projects/finial_scotland.qmd
+          file: qmds/regex/regex_beginner.qmd
         - text: "---"
         - text: "Intermediate"
-          file: Cleansing_Projects/project2.qmd
+          file: qmds/regex/regex_intermediate.qmd
         - text: "---"
         - text: "Advanced"
-          file: Cleansing_Projects/project3.qmd
+          file: qmds/regex/regex_advanced.qmd
         - text: "---"
     - title: "Business Value"
       style: "docked"
       background: light
       contents:
         - text: "For My Company"
-          file: exploration.qmd
+          file: qmds/value/business_value.qmd
         - text: "---"
         - text: "For My Skillset"
-          file: Exploration_Projects/project1.qmd
+          file: qmds/value/skillset.qmd
         - text: "---"
         - text: "For My Confidence"
-          file: Exploration_Projects/project2.qmd
+          file: qmds/value/confidence.qmd
         - text: "---"
     - title: "Total Projects"
       style: "docked"
       background: light
       contents:
         - text: "IEEE Standards"
-          file: ml.qmd
+          file: qmds/total_projects/ieee_standards.qmd
         - text: "---"
         - text: "IEC Standards"
-          file: Machine_Learning/baseball_Win_prediction.docx
+          file: qmds/total_projects/iec.qmd
         - text: "---"
         - text: "Cast Iron Standards"
-          file: Machine_Learning/project2.qmd
+          file: qmds/total_projects/cast_iron.qmd
         - text: "---"
         - text: "Paint Standards"
-          file: Machine_Learning/project3.qmd
+          file: qmds/total_projects/paint.qmd
         - text: "---"
         - text: "Primer Callouts"
-          file: Machine_Learning/project4.qmd
-        - text: "---"
-        - text: "Replace"
-          file: Machine_Learning/project5.qmd
+          file: qmds/total_projects/primer.qmd
         - text: "---"
 format:
   html:
