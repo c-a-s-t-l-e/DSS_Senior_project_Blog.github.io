@@ -5,7 +5,7 @@ project:
 website:
   title: "Data Cleaning Blog for My Regex Nerds"
   back-to-top-navigation: true
-  repo-url: https://github.com/annakamc/DSS_Senior_project_Blog.github.io/tree/main
+  repo-url: https://github.com/c-a-s-t-l-e/DSS_Senior_project_Blog.github.io/tree/main
   navbar:
     right:
       - about.qmd
