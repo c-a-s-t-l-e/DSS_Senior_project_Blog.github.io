@@ -1,30 +1,150 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "DS499_SeniorProjectBlog",
-    "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJan 15, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 12, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "About me\n\n\n Back to top"
+  },
+  {
+    "objectID": "qmds/value/confidence.html",
+    "href": "qmds/value/confidence.html",
+    "title": "Value to My Confidence",
+    "section": "",
+    "text": "code text here\n\n\n\n\n Back to top",
+    "crumbs": [
+      "For My Confidence"
+    ]
+  },
+  {
+    "objectID": "qmds/regex/regex_intermediate.html",
+    "href": "qmds/regex/regex_intermediate.html",
+    "title": "Regex For Intermediates",
+    "section": "",
+    "text": "text/code here\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Intermediate"
+    ]
+  },
+  {
+    "objectID": "qmds/regex/regex_advanced.html",
+    "href": "qmds/regex/regex_advanced.html",
+    "title": "Regex For Advanced",
+    "section": "",
+    "text": "text/code here\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Advanced"
+    ]
+  },
+  {
+    "objectID": "qmds/total_projects/paint.html",
+    "href": "qmds/total_projects/paint.html",
+    "title": "Paint Standards Extraction and Cleaning",
+    "section": "",
+    "text": "code text here\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Paint Standards"
+    ]
+  },
+  {
+    "objectID": "qmds/total_projects/cast_iron.html",
+    "href": "qmds/total_projects/cast_iron.html",
+    "title": "Cast Iron Standards Extraction and Cleaning",
+    "section": "",
+    "text": "code text here\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Cast Iron Standards"
+    ]
+  },
+  {
+    "objectID": "qmds/total_projects/iec.html",
+    "href": "qmds/total_projects/iec.html",
+    "title": "IEC Standards Extraction and Cleaning",
+    "section": "",
+    "text": "code text here\n\n\n\n\n Back to top",
+    "crumbs": [
+      "IEC Standards"
+    ]
   },
   {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "This is where I will transfer regex notebook\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My (Regex) Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Thanks for sharing the experience with me!\n\nThis post will be about my passion, regex, and how it ties into a project at work that I was lucky enough to have been put in charge of. AWS Textract cleaning project 2D Engineering Drawings Something about putting myself out there to be a regex expert and bc of that I have been able to use it every day at work Jouney to use this project to find out mor about regex and to help share it in a fun undaunting way\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "A Blog for my Fellow Regex Nerds",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\n\n\n\n\n\nMar 15, 2025\n\n\nAnnaka McClelland\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My (Regex) Blog\n\n\n\n\n\n\nnews\n\n\nbackground\n\n\n\n\n\n\n\n\n\nMar 3, 2025\n\n\nAnnaka McClelland\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "qmds/total_projects/ieee_standards.html",
+    "href": "qmds/total_projects/ieee_standards.html",
+    "title": "IEEE Standards Extraction and Cleaning",
+    "section": "",
+    "text": "code text here\n\n\n\n\n Back to top",
+    "crumbs": [
+      "IEEE Standards"
+    ]
+  },
+  {
+    "objectID": "qmds/total_projects/primer.html",
+    "href": "qmds/total_projects/primer.html",
+    "title": "Primer Extraction and Cleaning",
+    "section": "",
+    "text": "code text here\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Primer Callouts"
+    ]
+  },
+  {
+    "objectID": "qmds/regex/regex_intro.html",
+    "href": "qmds/regex/regex_intro.html",
+    "title": "Regex Intro",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Regex Intro"
+    ]
+  },
+  {
+    "objectID": "qmds/regex/regex_beginner.html",
+    "href": "qmds/regex/regex_beginner.html",
+    "title": "Regex for Beginners",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Beginners"
+    ]
+  },
+  {
+    "objectID": "qmds/value/business_value.html",
+    "href": "qmds/value/business_value.html",
+    "title": "Business Value Given to My Copmany",
+    "section": "",
+    "text": "text here, investment in me?\n\n\n\n\n Back to top",
+    "crumbs": [
+      "For My Company"
+    ]
+  },
+  {
+    "objectID": "qmds/value/skillset.html",
+    "href": "qmds/value/skillset.html",
+    "title": "Value to My Skillset",
+    "section": "",
+    "text": "code text here\n\n\n\n\n Back to top",
+    "crumbs": [
+      "For My Skillset"
+    ]
   }
 ]
